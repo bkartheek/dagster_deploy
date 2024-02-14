@@ -1,0 +1,6 @@
+DH
+.venv
+*.egg-info
+*.egg
+*.pyc
+.env

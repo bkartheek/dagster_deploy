@@ -1,0 +1,7 @@
+
+.venv
+deploy
+tutorial_tests
+tutorial.egg-info
+.env
+docker-compose.yml
